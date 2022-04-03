@@ -194,7 +194,8 @@ public class CarExample {
 
 **<실행클래스 1>**
 
-![Untitled](chap%2008-2_%20aa0ed/Untitled.png)
+
+![Untitled](https://user-images.githubusercontent.com/89206108/161429627-74bc6b5b-c887-4b36-a094-d8aadafcc752.png)
 
   
 

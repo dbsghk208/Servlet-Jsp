@@ -1,7 +1,7 @@
 
+# 목차
 
-
-
+1. [학습안내](#1강,-학습안내)
 
 
 
@@ -10,7 +10,9 @@
 
 # 1강 학습안내
 
-![Untitled](1%E1%84%80%E1%85%A1%E1%86%BC%20%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%2032903/Untitled.png)
+
+![Untitled](https://user-images.githubusercontent.com/89206108/161558429-f0f5b72c-6efe-433e-bf59-fd038a79960d.png)
+
 
 front-end 는 자바를 이용해서 하는게 아니고
 

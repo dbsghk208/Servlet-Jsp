@@ -70,7 +70,11 @@ JSP 라는 도구를 이용하게 된다.
 
 ### front-end , back-end  탄생
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c389f46a-7064-4170-86f8-cdd65fad695c/Untitled.png)
+
+
+![Untitled](https://user-images.githubusercontent.com/89206108/162003945-8a7cf25e-27c5-4227-8d66-629bf3c15fc4.png)
+
+
 
 일반적인 업무용 프로그램은
 
@@ -86,7 +90,10 @@ JSP 라는 도구를 이용하게 된다.
 
 그런데 시대가 지나며 아래와 같이 변했다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/00b30cf9-b15d-44d3-bfcb-cf70cf5bedce/Untitled.png)
+
+![Untitled 1](https://user-images.githubusercontent.com/89206108/162003983-85c74d65-b447-4dc7-ae05-2dfd0298f590.png)
+
+
 
 생산지에서 데이터가 만들어지면 원격에 있는 본사쪽에서
 
@@ -144,7 +151,10 @@ JSP 라는 도구를 이용하게 된다.
 
 **웹 이라는 것을 이용**하게 되는것.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/850566cd-1b01-4846-a1d6-ecffbb2aa542/Untitled.png)
+
+
+![Untitled 2](https://user-images.githubusercontent.com/89206108/162004090-39361795-3076-43ee-bb2c-0429f98ac49e.png)
+
 
 클라이언트 프로그램이  서버에 대한 데이터를 요청할 경우
 
@@ -178,7 +188,10 @@ JSP 라는 도구를 이용하게 된다.
 
 **서버클라이언트 프로그램을 웹 프로그램에 얹을 수 있다 는 것을 얘기하는것**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b16cdb88-4d45-4d7e-8e20-f42647faba50/Untitled.png)
+
+![Untitled 3](https://user-images.githubusercontent.com/89206108/162004148-d8b25fc4-2de5-4e8d-bc7f-68c0252d9733.png)
+
+
 
 웹은 기본적으로 페이지를 요청하고 페이지를 찾아서 페이지를 제공하는
 

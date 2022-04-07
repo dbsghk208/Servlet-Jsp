@@ -1,7 +1,7 @@
 
 # 목차
 
-[1.학습안내](#1강,-학습안내)
+- [1.학습안내](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/%ED%95%99%EC%8A%B5%EC%95%88%EB%82%B4.md)
 [2.웹서버프로그램](#2강,-웹-서버-프로그램)
 
 

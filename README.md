@@ -16,3 +16,6 @@
 - [12.어노테이션을 이용한 URL 매핑](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/12.%20%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20url%20%EB%A7%A4%ED%95%91.md)
 - [13. 서블릿 출력 형식을 지정해야 하는 이유](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/13.%EC%84%9C%EB%B8%94%EB%A6%BF%20%EC%B6%9C%EB%A0%A5%20%ED%98%95%EC%8B%9D%EC%9D%84%20%EC%A7%80%EC%A0%95%ED%95%B4%EC%95%BC%20%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
 - [14. 한글과 컨텐츠 형식 출력하기](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/14.%ED%95%9C%EA%B8%80%EA%B3%BC%20%EC%BB%A8%ED%85%90%EC%B8%A0%20%ED%98%95%EC%8B%9D%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.md)
+- [15. GET 요청과 쿼리스트링](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/15.GET%20%EC%9A%94%EC%B2%AD%EA%B3%BC%20%EC%BF%BC%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A7%81.md)
+
+

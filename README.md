@@ -20,4 +20,8 @@
 
 
 - [16. 기본값 사용하기](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/16.%EA%B8%B0%EB%B3%B8%EA%B0%92%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
+- [17. 사용자 입력을 통한 GET 요청](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/17.%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%9E%85%EB%A0%A5%EC%9D%84%20%ED%86%B5%ED%95%9C%20GET%20%EC%9A%94%EC%B2%AD.md)
+
+
+
 

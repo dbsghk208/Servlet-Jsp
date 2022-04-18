@@ -19,5 +19,5 @@
 - [15. GET 요청과 쿼리스트링](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/15.GET%20%EC%9A%94%EC%B2%AD%EA%B3%BC%20%EC%BF%BC%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A7%81.md)
 
 
--[16. 기본값 사용하기](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/16.%EA%B8%B0%EB%B3%B8%EA%B0%92%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
+- [16. 기본값 사용하기](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/16.%EA%B8%B0%EB%B3%B8%EA%B0%92%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 

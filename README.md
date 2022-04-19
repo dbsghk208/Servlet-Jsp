@@ -21,7 +21,8 @@
 
 - [16. 기본값 사용하기](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/16.%EA%B8%B0%EB%B3%B8%EA%B0%92%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 - [17. 사용자 입력을 통한 GET 요청](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/17.%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%9E%85%EB%A0%A5%EC%9D%84%20%ED%86%B5%ED%95%9C%20GET%20%EC%9A%94%EC%B2%AD.md)
-
+- [18. 입력할 내용이 많은 경우는 POST 요청](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/18.%EC%9E%85%EB%A0%A5%ED%95%A0%20%EB%82%B4%EC%9A%A9%EC%9D%B4%20%EB%A7%8E%EC%9D%80%20%EA%B2%BD%EC%9A%B0%EB%8A%94%20POST%20%EC%9A%94%EC%B2%AD.md)
+- [19. 한글 입력 문제](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/19.%ED%95%9C%EA%B8%80%20%EC%9E%85%EB%A0%A5%20%EB%AC%B8%EC%A0%9C.md)
 
 
 

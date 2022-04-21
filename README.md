@@ -24,5 +24,5 @@
 - [18. 입력할 내용이 많은 경우는 POST 요청](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/18.%EC%9E%85%EB%A0%A5%ED%95%A0%20%EB%82%B4%EC%9A%A9%EC%9D%B4%20%EB%A7%8E%EC%9D%80%20%EA%B2%BD%EC%9A%B0%EB%8A%94%20POST%20%EC%9A%94%EC%B2%AD.md)
 - [19. 한글 입력 문제](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/19.%ED%95%9C%EA%B8%80%20%EC%9E%85%EB%A0%A5%20%EB%AC%B8%EC%A0%9C.md)
 - [20. 서블릿 필터(Servlet Filter)](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/20.%EC%84%9C%EB%B8%94%EB%A6%BF%20%ED%95%84%ED%84%B0.md)
-
+- [23. 여러개의 Submit 버튼 사용하기](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/23.%EC%97%AC%EB%9F%AC%EA%B0%9C%EC%9D%98%20Submit%20%EB%B2%84%ED%8A%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 

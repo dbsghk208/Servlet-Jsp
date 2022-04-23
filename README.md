@@ -29,3 +29,6 @@
 - [25. 상태유지의 필요성](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/25.%EC%9E%85%EB%A0%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%B0%9B%EA%B8%B0.md)
 
 
+- [25. Application 객체와 그것을 사용한 상태 값 저장](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/26.%20Application%20%EA%B0%9D%EC%B2%B4%EC%99%80%20%EA%B7%B8%EA%B2%83%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%9C%20%EC%83%81%ED%83%9C%20%EA%B0%92%20%EC%A0%80%EC%9E%A5.md)
+
+

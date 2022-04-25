@@ -36,3 +36,5 @@
 - [30. Cookie 의 path 옵션](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/30.%20Cookie%20%EC%9D%98%20path%20%EC%98%B5%EC%85%98.md)
 
 
+- [31. Cookie 의 maxAge 옵션](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/31.%20Cookie%20%EC%9D%98%20maxAge%20%EC%98%B5%EC%85%98.md)
+

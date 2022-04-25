@@ -37,4 +37,4 @@
 
 
 - [31. Cookie 의 maxAge 옵션](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/31.%20Cookie%20%EC%9D%98%20maxAge%20%EC%98%B5%EC%85%98.md)
-
+- [32. Application / Session / Cookie 차이점 정리](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/32.%20Application%2C%20Session%2C%20%20Cookie%20%EC%B0%A8%EC%9D%B4%EC%A0%90%20%EC%A0%95%EB%A6%AC.md)

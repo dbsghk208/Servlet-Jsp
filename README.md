@@ -38,3 +38,5 @@
 
 - [31. Cookie 의 maxAge 옵션](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/31.%20Cookie%20%EC%9D%98%20maxAge%20%EC%98%B5%EC%85%98.md)
 - [32. Application / Session / Cookie 차이점 정리](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/32.%20Application%2C%20Session%2C%20%20Cookie%20%EC%B0%A8%EC%9D%B4%EC%A0%90%20%EC%A0%95%EB%A6%AC.md)
+- [33. 서버에서 페이지 전환해주기(redirect)](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/33.%20%EC%84%9C%EB%B2%84%EC%97%90%EC%84%9C%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%98%ED%95%B4%EC%A3%BC%EA%B8%B0(redirect).md)
+

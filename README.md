@@ -1,6 +1,10 @@
 
 # 목차
 
+<details>
+  <summary>1강~ 20강</summary>
+
+
 - [1.학습안내](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/01.%ED%95%99%EC%8A%B5%EC%95%88%EB%82%B4.md)
 - [2.웹서버프로그램](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/02.%EC%9B%B9%20%EC%84%9C%EB%B2%84%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.md)
 - [3.웹 서버 프로그램과 Servlet](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/03.%EC%9B%B9%EC%84%9C%EB%B2%84%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EA%B3%BC%20Servlet.md)
@@ -28,6 +32,11 @@
 - [24. 입력 데이터 배열로 받기](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/24.%EC%9E%85%EB%A0%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%B0%9B%EA%B8%B0.md)
 - [25. 상태유지의 필요성](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/25.%EC%9E%85%EB%A0%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%B0%9B%EA%B8%B0.md)
 
+</details>
+
+
+<details>
+<summary>26강~</summary>
 
 - [26. Application 객체와 그것을 사용한 상태 값 저장](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/26.%20Application%20%EA%B0%9D%EC%B2%B4%EC%99%80%20%EA%B7%B8%EA%B2%83%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%9C%20%EC%83%81%ED%83%9C%20%EA%B0%92%20%EC%A0%80%EC%9E%A5.md)
 - [27. Session 객체로 상태 값 저장하기(그리고 Application 객체와의 차이점)](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/27.%20Session%20%EA%B0%9D%EC%B2%B4%EB%A1%9C%20%EC%83%81%ED%83%9C%20%EA%B0%92%20%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0(%EA%B7%B8%EB%A6%AC%EA%B3%A0%20Application%20%EA%B0%9D%EC%B2%B4%EC%99%80%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90).md)
@@ -41,3 +50,9 @@
 - [33. 서버에서 페이지 전환해주기(redirect)](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/33.%20%EC%84%9C%EB%B2%84%EC%97%90%EC%84%9C%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%98%ED%95%B4%EC%A3%BC%EA%B8%B0(redirect).md)
 - [34. 동적인 페이지(서버 페이지) 필요성](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/34.%20%EB%8F%99%EC%A0%81%EC%9D%B8%20%ED%8E%98%EC%9D%B4%EC%A7%80(%EC%84%9C%EB%B2%84%20%ED%8E%98%EC%9D%B4%EC%A7%80)%20%ED%95%84%EC%9A%94%EC%84%B1.md)
 - [35. 처음이자 마지막으로 동적인 페이지 서블릿으로 직접 만들기](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/35.%20%EC%B2%98%EC%9D%8C%EC%9D%B4%EC%9E%90%20%EB%A7%88%EC%A7%80%EB%A7%89%EC%9C%BC%EB%A1%9C%20%EB%8F%99%EC%A0%81%EC%9D%B8%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%84%9C%EB%B8%94%EB%A6%BF%EC%9C%BC%EB%A1%9C%20%EC%A7%81%EC%A0%91%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+ 
+ </details>
+ 
+ 
+ 
+ 

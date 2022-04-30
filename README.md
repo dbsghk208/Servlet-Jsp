@@ -50,7 +50,10 @@
 - [33. 서버에서 페이지 전환해주기(redirect)](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/33.%20%EC%84%9C%EB%B2%84%EC%97%90%EC%84%9C%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%98%ED%95%B4%EC%A3%BC%EA%B8%B0(redirect).md)
 - [34. 동적인 페이지(서버 페이지) 필요성](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/34.%20%EB%8F%99%EC%A0%81%EC%9D%B8%20%ED%8E%98%EC%9D%B4%EC%A7%80(%EC%84%9C%EB%B2%84%20%ED%8E%98%EC%9D%B4%EC%A7%80)%20%ED%95%84%EC%9A%94%EC%84%B1.md)
 - [35. 처음이자 마지막으로 동적인 페이지 서블릿으로 직접 만들기](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/35.%20%EC%B2%98%EC%9D%8C%EC%9D%B4%EC%9E%90%20%EB%A7%88%EC%A7%80%EB%A7%89%EC%9C%BC%EB%A1%9C%20%EB%8F%99%EC%A0%81%EC%9D%B8%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%84%9C%EB%B8%94%EB%A6%BF%EC%9C%BC%EB%A1%9C%20%EC%A7%81%EC%A0%91%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
- 
+- [36. 계산기 서블릿 완성하기 + 37.쿠키삭제하기 ](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/36-37%20%EA%B3%84%EC%82%B0%EA%B8%B0%20%EC%84%9C%EB%B8%94%EB%A6%BF.%20%EC%BF%A0%ED%82%A4%EB%A1%9C%20%EA%B0%92%20%EC%A0%84%EB%8B%AC%20%EB%B0%8F%20%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0.md)
+  
+  
+  
  </details>
  
  

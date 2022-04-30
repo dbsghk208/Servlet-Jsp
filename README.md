@@ -36,7 +36,7 @@
 
 
 <details>
-<summary>26강~</summary>
+<summary>26강~39강</summary>
 
 - [26. Application 객체와 그것을 사용한 상태 값 저장](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/26.%20Application%20%EA%B0%9D%EC%B2%B4%EC%99%80%20%EA%B7%B8%EA%B2%83%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%9C%20%EC%83%81%ED%83%9C%20%EA%B0%92%20%EC%A0%80%EC%9E%A5.md)
 - [27. Session 객체로 상태 값 저장하기(그리고 Application 객체와의 차이점)](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/27.%20Session%20%EA%B0%9D%EC%B2%B4%EB%A1%9C%20%EC%83%81%ED%83%9C%20%EA%B0%92%20%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0(%EA%B7%B8%EB%A6%AC%EA%B3%A0%20Application%20%EA%B0%9D%EC%B2%B4%EC%99%80%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90).md)
@@ -58,6 +58,8 @@
   
  </details>
  
+ <details>
+  <summary>40강~ </summary>
  
- 
+ </details> 
  

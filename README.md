@@ -67,7 +67,7 @@
 - [43. JSP로 만드는 Hello 서블릿](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/43.%20JSP%EB%A1%9C%20%EB%A7%8C%EB%93%9C%EB%8A%94%20Hello%20%EC%84%9C%EB%B8%94%EB%A6%BF.md) 
 - [44. 스파게티 코드를 만드는 JSP](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/44.%20%20%EC%8A%A4%ED%8C%8C%EA%B2%8C%ED%8B%B0%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EB%8A%94%20JSP.md) 
 - [45. JSP MVC model1](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/45.%20JSP%20MVC%20model1.md)
-  
+- [46. JSP MVC model1을 model2 방식으로](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/46.%20JSP%20MVC%20model1%EC%9D%84%20model2%20%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C.md)  
   
   
  </details> 

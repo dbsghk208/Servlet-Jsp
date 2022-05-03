@@ -68,6 +68,9 @@
 - [44. 스파게티 코드를 만드는 JSP](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/44.%20%20%EC%8A%A4%ED%8C%8C%EA%B2%8C%ED%8B%B0%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EB%8A%94%20JSP.md) 
 - [45. JSP MVC model1](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/45.%20JSP%20MVC%20model1.md)
 - [46. JSP MVC model1을 model2 방식으로](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/46.%20JSP%20MVC%20model1%EC%9D%84%20model2%20%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C.md)  
+- [47. EL(Expression Language)](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/47.%20EL(Expression%20Language).md)
+- [48. EL의 데이터 저장소](https://github.com/dbsghk208/Servlet-Jsp/blob/main/yun/48.%20EL%EC%9D%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%80%EC%9E%A5%EC%86%8C.md) 
+  
   
   
  </details> 
